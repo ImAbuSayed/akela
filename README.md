@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের এই গভীরে নেশা ধরা চোখ.. নেশা ধরা চোখ..
+> আমাদের ছোঁয়াতে জেগে ওঠে সুখ
+> শীতল এই বাতাসে প্রেমের আগুন.. প্রেমের আগুন..
+> হৃদয়ে জাগিয়ে দাও রঙের ফাগুন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
